@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q01",
+    "question": "What AI practices are explicitly prohibited under the EU AI Act?",
+    "clearance": "public"
+  },
+  {
+    "id": "q02",
+    "question": "How does the EU AI Act classify AI systems as high-risk?",
+    "clearance": "public"
+  },
+  {
+    "id": "q03",
+    "question": "What is a risk management system and what does it require for high-risk AI?",
+    "clearance": "public"
+  },
+  {
+    "id": "q04",
+    "question": "What transparency obligations must providers of high-risk AI systems fulfil?",
+    "clearance": "public"
+  },
+  {
+    "id": "q05",
+    "question": "What obligations do deployers of high-risk AI systems have under the EU AI Act?",
+    "clearance": "public"
+  },
+  {
+    "id": "q06",
+    "question": "What is a general-purpose AI model and what rules apply to it?",
+    "clearance": "public"
+  },
+  {
+    "id": "q07",
+    "question": "How does the EU AI Act define an AI system?",
+    "clearance": "public"
+  },
+  {
+    "id": "q08",
+    "question": "What is the role of national competent authorities under the EU AI Act?",
+    "clearance": "public"
+  },
+  {
+    "id": "q09",
+    "question": "What penalties can be imposed for violations of the EU AI Act?",
+    "clearance": "public"
+  },
+  {
+    "id": "q10",
+    "question": "What are the data governance requirements for training datasets of high-risk AI systems?",
+    "clearance": "public"
+  },
+  {
+    "id": "q11",
+    "question": "What is our internal classification for AI use cases in HR processes?",
+    "clearance": "restricted"
+  },
+  {
+    "id": "q12",
+    "question": "What is the internal remediation deadline for addressing legacy AI tools that may be non-compliant?",
+    "clearance": "restricted"
+  },
+  {
+    "id": "q13",
+    "question": "What specific enforcement powers does the European AI Office hold, and which EU institution does it operate under?",
+    "clearance": "public"
+  },
+  {
+    "id": "q14",
+    "question": "According to Article 13, what exact accuracy metrics and benchmarks must a provider include in the instructions for use of a high-risk AI system?",
+    "clearance": "public"
+  },
+  {
+    "id": "q15",
+    "question": "What is the numerical compute threshold in floating-point operations that causes a general-purpose AI model to be presumed as having systemic risk?",
+    "clearance": "public"
+  },
+  {
+    "id": "q16",
+    "question": "Can an AI system that infers the emotions of students in a classroom be legally deployed in the EU, and if so, under what conditions?",
+    "clearance": "public"
+  },
+  {
+    "id": "q17",
+    "question": "How many years must HR AI tool decision logs be retained according to the internal compliance guidelines?",
+    "clearance": "restricted"
+  },
+  {
+    "id": "q18",
+    "question": "What is the escalation and reporting procedure after an internal AI tool is suspended following the Phase 1 prohibited practices review?",
+    "clearance": "restricted"
+  }
+]

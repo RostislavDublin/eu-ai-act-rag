@@ -1,0 +1,13 @@
+# RAG pipeline
+requests
+python-dotenv
+chromadb
+rank-bm25
+
+# Streamlit UI
+streamlit
+plotly
+
+# Document handling
+pypdf
+pydantic

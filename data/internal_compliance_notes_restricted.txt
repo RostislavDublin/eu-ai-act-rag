@@ -1,0 +1,81 @@
+INTERNAL AI COMPLIANCE NOTES
+Classification: RESTRICTED - Internal use only
+Owner: AI Governance Team
+Last updated: Q1 2026
+
+
+INTRODUCTION
+
+This document supplements the EU AI Act (Regulation (EU) 2024/1689) with internal guidance
+specific to our organisation. It is not a public document and must not be shared externally.
+
+
+SECTION 1 - INTERNAL AI USE CASE CLASSIFICATION
+
+We have classified internal AI use cases into two tiers:
+
+TIER A (High-risk, requires full compliance program):
+- CV screening and candidate ranking tools used in recruitment
+- Performance evaluation AI assistants used by HR managers
+- Internal creditworthiness tools supporting employee benefit decisions
+- Any AI integrated into safety-critical internal infrastructure (e.g. data-centre monitoring)
+
+All Tier A tools must undergo internal risk assessment before deployment, complete the
+self-assessment template in Appendix 2, and be registered in the internal AI inventory.
+
+TIER B (Lower-risk, streamlined review):
+- Document summarisation tools (legal, finance, HR)
+- Meeting transcription assistants
+- Code review assistants (e.g. GitHub Copilot integrations)
+- Customer service chatbots handling FAQ queries only
+
+Tier B tools require a simplified one-page self-assessment and approval from the direct
+business unit head. They are still registered in the AI inventory but do not require full
+risk management documentation.
+
+
+SECTION 2 - LEGACY TOOL REMEDIATION TIMELINE
+
+Following the formal entry into force of the EU AI Act in August 2024 and its phased
+application schedule, we have defined the following internal remediation deadlines:
+
+Phase 1 (Prohibited practices check) - Deadline: December 31, 2025
+All internal AI tools must be reviewed against Article 5 prohibited practices.
+Any tool found to use subliminal manipulation or exploit user vulnerabilities must be
+immediately suspended pending legal review.
+
+Phase 2 (High-risk classification audit) - Deadline: March 31, 2026
+All Tier A tools must have completed the internal risk management documentation.
+The AI inventory must be updated with compliance status for each tool.
+
+Phase 3 (Technical documentation and transparency) - Deadline: August 2, 2026
+Full compliance documentation must be in place for all tools classified as high-risk
+under the EU AI Act (aligning with Article 16 requirements).
+
+Phase 4 (Ongoing monitoring) - From August 3, 2026
+Quarterly compliance reviews for all registered AI tools. Annual external audit for
+Tier A tools handling personal data.
+
+
+SECTION 3 - HR PROCESS GUIDANCE
+
+AI tools used in HR processes are categorised as Tier A due to their potential impact
+on employment opportunities (see Annex III of EU AI Act - high-risk categories include
+"Employment, workers management and access to self-employment").
+
+Specific rules:
+- No AI decision on hiring, promotion or termination may be final without human review.
+- Candidates and employees must be informed when AI is used to assess their applications.
+- HR AI tools must log decisions and retain logs for at least 3 years.
+- Bias testing on HR AI tools must be conducted semi-annually by an independent team.
+
+Current HR AI tools registered in our inventory:
+- TalentScreen v2.3 (CV shortlisting) - Tier A - compliance review in progress
+- PerfomanceInsights (performance analytics) - Tier A - pending Article 9 risk assessment
+
+
+SECTION 4 - CONTACT
+
+For compliance questions: ai-compliance@internal.example.com
+For tool registration: ai-inventory@internal.example.com
+AI Governance Committee: meets monthly (third Thursday)

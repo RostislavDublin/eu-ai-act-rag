@@ -1,0 +1,218 @@
+EU ARTIFICIAL INTELLIGENCE ACT
+Regulation (EU) 2024/1689 of the European Parliament and of the Council
+[Selected articles - for demonstration purposes]
+
+
+CHAPTER I - GENERAL PROVISIONS
+
+Article 1 - Subject matter
+
+This Regulation lays down harmonised rules on artificial intelligence with the aim of:
+(a) improving the functioning of the internal market and facilitating the deployment of trustworthy artificial intelligence;
+(b) prohibiting certain AI practices;
+(c) laying down specific requirements for high-risk AI systems and obligations for operators of such systems;
+(d) laying down transparency obligations for certain AI systems;
+(e) laying down rules on market monitoring, market surveillance, governance and enforcement;
+(f) supporting innovation, with particular attention to small and medium-sized enterprises, including start-ups.
+
+
+Article 3 - Definitions (selected)
+
+For the purposes of this Regulation:
+
+(1) "AI system" means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;
+
+(2) "provider" means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model with a view to placing it on the market, or putting it into service under its own name or trademark, whether for payment or free of charge;
+
+(4) "deployer" means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
+
+(10) "risk management system" means a continuous iterative process planned and run throughout the entire lifecycle of a high-risk AI system;
+
+(63) "general-purpose AI model" means an AI model that is trained on large amounts of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market, and that can be integrated into a variety of downstream systems or applications;
+
+
+CHAPTER II - PROHIBITED AI PRACTICES
+
+Article 5 - Prohibited AI practices
+
+1. The following AI practices shall be prohibited:
+
+(a) the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person's consciousness or purposefully manipulative or deceptive techniques, with the objective of, or with the effect of, materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, or that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation, with the objective of, or with the effect of, materially distorting the behaviour of that person or a group of persons;
+
+(b) the placing on the market, the putting into service, or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation;
+
+(c) the placing on the market, the putting into service or the use of AI systems for the social scoring of natural persons by or on behalf of public authorities or acting on their behalf for the purpose of determining access to public services and benefits, or restricting participation in civic, political and social life;
+
+(d) the placing on the market, the putting into service or the use of real-time remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement, unless and in as far as such use is strictly necessary for one of the following objectives: (i) the targeted search for specific victims of abduction, trafficking in human beings or sexual exploitation of human beings, as well as the search for missing persons; (ii) the prevention of a specific, substantial and imminent threat to the life or physical safety of natural persons or of a real and present or real and foreseeable threat of a terrorist attack; (iii) the location or identification of a person suspected of having committed a criminal offence;
+
+(e) the placing on the market, the putting into service or the use of an AI system that infers the emotions of natural persons in the workplace and in education institutions, except where the use of the AI system is intended for medical or safety reasons;
+
+(f) the placing on the market, the putting into service or the use of AI systems that categorise natural persons individually based on their biometric data to deduce or infer their race, political opinions, trade union membership, religious or philosophical beliefs, sex life or sexual orientation;
+
+(g) the placing on the market, the putting into service or the use of biometric categorisation systems that categorise individually natural persons based on their biometric data to deduce or infer their race, political opinions, trade union membership, religious or philosophical beliefs, sex life or sexual orientation;
+
+(h) the use of AI systems to perform real-time remote biometric identification of natural persons in publicly accessible spaces for the purposes of law enforcement.
+
+
+CHAPTER III - HIGH-RISK AI SYSTEMS
+
+Section 1 - Classification of AI systems as high-risk
+
+Article 6 - Classification rules for high-risk AI systems
+
+1. Irrespective of whether an AI system is placed on the market or put into service independently from the products referred to in this paragraph, that AI system shall be considered to be high-risk where both of the following conditions are fulfilled:
+(a) the AI system is intended to be used as a safety component of a product, or the AI system is itself a product, covered by the Union harmonisation legislation listed in Annex I;
+(b) the product whose safety component pursuant to point (a) is the AI system, or the AI system itself as a product, is required to undergo a third-party conformity assessment with a view to the placing on the market or putting into service of that product pursuant to the Union harmonisation legislation listed in Annex I.
+
+2. In addition to the high-risk AI systems referred to in paragraph 1, AI systems referred to in Annex III shall also be considered to be high-risk.
+
+3. AI systems referred to in Annex III shall not be considered to be high-risk where they do not pose a significant risk of harm to the health, safety or fundamental rights of natural persons.
+
+Annex III lists the following areas for high-risk AI systems:
+- Biometric identification and categorisation of natural persons
+- Management and operation of critical infrastructure
+- Education and vocational training
+- Employment, workers management and access to self-employment
+- Access to and enjoyment of essential private services and essential public services and benefits
+- Law enforcement
+- Migration, asylum and border control management
+- Administration of justice and democratic processes
+
+
+Section 2 - Requirements for high-risk AI systems
+
+Article 9 - Risk management system
+
+1. A risk management system shall be established, implemented, documented and maintained in relation to high-risk AI systems.
+
+2. The risk management system shall consist of a continuous iterative process run throughout the entire lifecycle of a high-risk AI system, requiring regular systematic review and updating. It shall comprise the following steps:
+(a) the identification and analysis of the known and reasonably foreseeable risks that the high-risk AI system can pose to health, safety or fundamental rights when the high-risk AI system is used in accordance with its intended purpose;
+(b) the estimation and evaluation of the risks that may emerge when the high-risk AI system is used in accordance with its intended purpose, and under conditions of reasonably foreseeable misuse;
+(c) the evaluation of other risks possibly arising based on the analysis of data gathered from the post-market monitoring system;
+(d) the adoption of appropriate and targeted risk management measures designed to address the risks identified.
+
+3. The risk management measures referred to in paragraph 2, point (d), shall give due consideration to the effects and possible interactions resulting from the combined application of the requirements set out in this Section. They shall take into account the generally acknowledged state of the art, including as reflected in relevant harmonised standards or common specifications.
+
+4. The risk management measures referred to in paragraph 2, point (d), shall be such that the relevant residual risk associated with each hazard as well as the overall residual risk of the high-risk AI systems is judged to be acceptable, provided that the high-risk AI system is used in accordance with its intended purpose or under conditions of reasonably foreseeable misuse.
+
+Article 10 - Data and data governance
+
+1. High-risk AI systems which make use of techniques involving the training of AI models with data shall be developed on the basis of training, validation and testing data sets that meet the quality criteria referred to in paragraphs 2 to 5.
+
+2. Training, validation and testing data sets shall be subject to data governance and management practices appropriate for the intended purpose of the high-risk AI system. Those practices shall concern in particular:
+(a) the relevant design choices;
+(b) data collection processes and the origin of data, and in the case of personal data, the original purpose of the data collection;
+(c) relevant data preparation processing operations, such as annotation, labelling, cleaning, updating, enrichment and aggregation;
+(d) the formulation of relevant assumptions, in particular with respect to the information that the data is supposed to measure and represent;
+(e) an assessment of the availability, quantity and suitability of the data sets that are needed;
+(f) an examination of possible biases that could affect health, safety or fundamental rights;
+(g) appropriate measures to detect, prevent and mitigate possible biases.
+
+3. Training, validation and testing data sets shall be relevant, sufficiently representative, and to the best extent possible, free of errors and complete in view of the intended purpose. They shall have the appropriate statistical properties.
+
+4. Training, validation and testing data sets shall take into account the specific geographical, contextual, behavioural or functional setting within which the high-risk AI system is intended to be used.
+
+5. Only personal data that is necessary for the specific purpose shall be used in training data sets.
+
+Article 13 - Transparency and provision of information to deployers
+
+1. High-risk AI systems shall be designed and developed in such a way as to ensure that their operation is sufficiently transparent to enable deployers to interpret the system's output and use it appropriately. An appropriate type and degree of transparency shall be ensured with a view to achieving compliance with the relevant obligations of the provider and deployer set out in Section 3.
+
+2. High-risk AI systems shall be accompanied by instructions for use in an appropriate digital format or otherwise that include concise, complete, correct and clear information that is relevant, accessible and comprehensible to deployers.
+
+3. The information referred to in paragraph 2 shall specify:
+(a) the identity and the contact details of the provider and, where applicable, of its authorised representative;
+(b) the characteristics, capabilities and limitations of performance of the high-risk AI system, including: (i) its intended purpose; (ii) the level of accuracy, including its metrics, robustness and cybersecurity referred to in Article 15 against which the high-risk AI system has been tested and validated and which can be expected, and any known and foreseeable circumstances that may have an impact on that expected level of accuracy, robustness and cybersecurity; (iii) any known or foreseeable circumstance, related to the use of the high-risk AI system in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, which may lead to risks to the health and safety or fundamental rights referred to in Article 9(2);
+(c) the changes to the high-risk AI system and its performance that have been pre-determined by the provider at the time of the initial conformity assessment;
+(d) the human oversight measures referred to in Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of AI systems by the deployers;
+(e) the computational and hardware resources needed to run the high-risk AI system, its expected lifetime, and any necessary maintenance and care measures, including their frequency.
+
+Article 14 - Human oversight
+
+1. High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which the AI system is in use.
+
+2. Human oversight shall aim at preventing or minimising the risks to health, safety or fundamental rights that may emerge when a high-risk AI system is used in accordance with its intended purpose or under conditions of reasonably foreseeable misuse, in particular when such risks persist notwithstanding the application of other requirements set out in this Section.
+
+Article 16 - Obligations of providers of high-risk AI systems
+
+Providers of high-risk AI systems shall:
+(a) ensure that their high-risk AI systems are compliant with the requirements set out in Section 2;
+(b) have a quality management system in place pursuant to Article 17;
+(c) draw up the technical documentation referred to in Article 11;
+(d) where applicable, follow the relevant conformity assessment procedure pursuant to Article 43;
+(e) register their high-risk AI systems in the EU database referred to in Article 71 before placing it on the market or putting it into service;
+(f) take the necessary corrective actions and provide information as required pursuant to Article 20;
+(g) upon request by a national competent authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the high-risk AI system with the requirements set out in Section 2;
+(h) ensure that the high-risk AI system bears the CE marking of conformity referred to in Article 48;
+(i) ensure compliance with the registration obligations referred to in Article 49(1);
+(j) take necessary measures to ensure the high-risk AI system continues to comply with the requirements set out in Section 2.
+
+Article 26 - Obligations of deployers of high-risk AI systems
+
+1. Deployers of high-risk AI systems shall take appropriate technical and organisational measures to ensure they use such systems in accordance with the instructions for use accompanying the systems.
+
+2. Deployers shall assign the monitoring of the functioning of the high-risk AI system to natural persons who have the necessary competence, training and authority, as well as the necessary support.
+
+3. Deployers shall ensure that the input data is relevant in view of the intended purpose of the high-risk AI system.
+
+4. Deployers shall monitor the operation of the high-risk AI system on the basis of the instructions for use and, where relevant, inform providers of serious incidents.
+
+5. Deployers who are employers shall inform workers' representatives and the workers concerned, prior to putting into service, that they will be subject to the use of the high-risk AI system.
+
+6. Deployers shall use the information provided under Article 13 to implement adequate human oversight measures.
+
+
+CHAPTER V - GENERAL-PURPOSE AI MODELS
+
+Article 51 - Classification of general-purpose AI models as models with systemic risk
+
+1. A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it meets any of the following criteria:
+(a) it has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks;
+(b) based on a decision of the Commission, ex officio or following a qualified alert from the scientific panel.
+
+2. A general-purpose AI model shall be presumed to have high impact capabilities pursuant to paragraph 1, point (a), when the cumulative amount of compute used for its training measured in floating point operations is greater than 10^25.
+
+Article 53 - Obligations for providers of general-purpose AI models
+
+1. Providers of general-purpose AI models shall:
+(a) draw up and keep up-to-date the technical documentation of the model, including its training and testing process and the results of its evaluation, which shall contain the information set out in Annex XI for the purpose of providing it, upon request, to the AI Office and the national competent authorities;
+(b) draw up, keep up-to-date and make available information and documentation to providers of AI systems who intend to integrate the general-purpose AI model into their AI systems, to allow those providers to understand the capabilities and limitations of the general-purpose AI model and to comply with their obligations under this Regulation;
+(c) put in place a policy to comply with Union law on copyright and related rights, and in particular to identify and comply with a reservation of rights expressed pursuant to Article 4(3) of Directive (EU) 2019/790;
+(d) publish a sufficiently detailed summary about the content used for training of the general-purpose AI model.
+
+2. Providers of general-purpose AI models with systemic risk shall, in addition:
+(a) perform model evaluation in accordance with standardised protocols and tools;
+(b) assess and mitigate possible systemic risks;
+(c) report to the Commission without undue delay after they become aware of any serious incident;
+(d) ensure an adequate level of cybersecurity protection.
+
+
+CHAPTER VII - GOVERNANCE
+
+Article 70 - National competent authorities and notifying authorities
+
+1. Each Member State shall designate at least one national competent authority for the purpose of supervising the application and implementation of this Regulation. Member States shall designate one of the national competent authorities as their national supervisory authority for the purpose of this Regulation.
+
+2. National competent authorities shall exercise their powers independently, impartially and without bias, so as to safeguard the principles of objectivity of their activities and tasks, and to ensure the application and implementation of this Regulation. The members of national competent authorities shall refrain from any action incompatible with the nature of their duties and shall not exercise any incompatible professional activity.
+
+3. Member States shall report to the Commission on the designated national competent authorities. Where a Member State designates more than one authority, the Member State shall indicate which of those authorities serves as the single point of contact.
+
+
+CHAPTER XII - PENALTIES
+
+Article 99 - Penalties
+
+1. Member States shall lay down the rules on penalties and other enforcement measures, which may also include warnings and non-monetary measures, applicable to infringements of this Regulation by operators, and shall take all measures necessary to ensure that they are properly and effectively implemented.
+
+2. Member States shall notify the Commission of those rules and measures by 2 August 2025 and shall notify it, without delay, of any subsequent amendment affecting them.
+
+3. The following infringements shall be subject to administrative fines:
+(a) Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 35,000,000 or, if the offender is an undertaking, up to 7% of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+(b) Non-compliance with any of the following provisions of this Regulation shall be subject to administrative fines of up to EUR 15,000,000 or, if the offender is an undertaking, up to 3% of its total worldwide annual turnover for the preceding financial year, whichever is higher: requirements and obligations for providers, authorised representatives, deployers, notified bodies and other market operators.
+(c) The supply of incorrect, incomplete or misleading information to notified bodies and national competent authorities in reply to a request shall be subject to administrative fines of up to EUR 7,500,000 or, if the offender is an undertaking, up to 1% of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+
+4. For SMEs, including start-ups, each fine referred to in this Article shall be the lower of the percentages or the amounts referred to in paragraphs 3.
+
+5. In deciding whether to impose an administrative fine and in deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account, in particular the nature, gravity and duration of the infringement and of its consequences, including: (a) the nature, gravity and duration of the infringement; (b) the intentional or negligent character of the infringement; (c) actions taken by the operator to mitigate the damage suffered by natural persons; (d) the degree of responsibility of the operator; (e) the way in which the national competent authority became aware of the infringement; (f) the size, annual turnover and market share of the operator; (g) any other aggravating or mitigating factor applicable to the circumstances of the case.
+
+6. Before the Commission or a national competent authority decides to impose a fine, the operator concerned shall be given the opportunity to present its observations on the matter. The decision to impose the fine shall be reasoned.
